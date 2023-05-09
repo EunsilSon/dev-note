@@ -12,6 +12,7 @@ Today, I Learned
 - [접근제어자](https://github.com/EunsilSon/TIL/blob/main/Java/%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 - [클래스, 객체, 인스턴스의 차이](https://github.com/EunsilSon/TIL/blob/main/Java/%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EA%B0%9D%EC%B2%B4%2C%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [Call By Reference와 Call By Value](https://github.com/EunsilSon/TIL/blob/main/Java/Call%20By%20Reference%EC%99%80%20Call%20By%20Value.md)
+- [JVM의 구조](https://github.com/EunsilSon/TIL/blob/main/Java/JVM%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md)
 
 # Algorithm
 - 정렬
