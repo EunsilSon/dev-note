@@ -7,11 +7,6 @@
   - 개발자가 미리 예측해 방지할 수 있기 때문에 **예외 처리(Exception Handle)** 가 필요
   - NullPointerException, ArrayIndexOutOfBoundsException 등
 
-<br><br>
-
-# 예외 처리 방법
-예외 처리 방법에는 CheckedException과 UnCheckedException이 있다.
-
 <br>
 
 # CheckedException
