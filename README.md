@@ -23,3 +23,6 @@ Today, I Learned
   - [퀵 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/quick.md)
   - [합병 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/merge.md)
 - [그리디 알고리즘](https://github.com/EunsilSon/TIL/blob/main/Algorithm/greedy.md)
+
+# Web
+- [HTTP 메서드와 상태 코드](https://github.com/EunsilSon/TIL/blob/main/Web/HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
