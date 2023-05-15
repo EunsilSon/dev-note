@@ -26,3 +26,6 @@ Today, I Learned
 
 # Web
 - [HTTP 메서드와 상태 코드](https://github.com/EunsilSon/TIL/blob/main/Web/HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+
+# Database
+- [인덱스 (Index)](https://github.com/EunsilSon/TIL/blob/main/Database/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
