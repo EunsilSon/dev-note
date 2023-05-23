@@ -1,6 +1,3 @@
-# TIL
-Today, I Learned
-
 # Java
 - [컴파일 과정](https://github.com/EunsilSon/TIL/blob/main/Java/compile%20process.md)
 - [String, StringBuilder, StringBuffer](https://github.com/EunsilSon/TIL/blob/main/Java/String%2C%20StringBuilder%2C%20StringBuffer.md)
@@ -33,3 +30,6 @@ Today, I Learned
 
 # 운영체제
 - [프로세스와 스레드](https://github.com/EunsilSon/TIL/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+
+# Server
+- [마이크로서비스 아키텍처](https://github.com/EunsilSon/TIL/blob/main/Server/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
