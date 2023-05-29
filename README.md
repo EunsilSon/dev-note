@@ -11,6 +11,7 @@
 - [Call By Reference와 Call By Value](https://github.com/EunsilSon/TIL/blob/main/Java/Call%20By%20Reference%EC%99%80%20Call%20By%20Value.md)
 - [JVM의 구조](https://github.com/EunsilSon/TIL/blob/main/Java/JVM%EC%9D%98%20%EA%B5%AC%EC%A1%B0.md)
 - [CheckedException과 UnCheckedException](https://github.com/EunsilSon/TIL/blob/main/Java/CheckedException%EA%B3%BC%20UnCheckedException.md)
+- [Garbage Collection](https://github.com/EunsilSon/TIL/blob/main/Java/Garbage%20Collection.md)
 
 # Algorithm
 - 정렬
@@ -34,3 +35,4 @@
 
 # Server
 - [마이크로서비스 아키텍처](https://github.com/EunsilSon/TIL/blob/main/Server/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
+- [CI/CD](https://github.com/EunsilSon/TIL/blob/main/Server/CICD.md)
