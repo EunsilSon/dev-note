@@ -14,6 +14,7 @@
 - [Garbage Collection](https://github.com/EunsilSon/TIL/blob/main/Java/Garbage%20Collection.md)
 
 # Algorithm
+- [빅오 표기법](https://github.com/EunsilSon/TIL/blob/main/Algorithm/Big-O%20%ED%91%9C%EA%B8%B0%EB%B2%95.md)
 - 정렬
   - [선택 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/selection.md)
   - [삽입 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/insertion.md)
