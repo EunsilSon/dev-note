@@ -39,4 +39,6 @@
 - [CI/CD](https://github.com/EunsilSon/TIL/blob/main/Server/CICD.md)
 
 # 자료구조
-- [트리 (Tree)](https://github.com/EunsilSon/TIL/blob/main/Data%20Structures/Tree.md)
+- [트리](https://github.com/EunsilSon/TIL/blob/main/Data%20Structures/Tree.md)
+- [힙 트리](https://github.com/EunsilSon/TIL/blob/main/Data%20Structures/Heap%20Tree.md)
+- [그래프 (인접 리스트, 인접 행렬)](https://github.com/EunsilSon/TIL/blob/main/Data%20Structures/Graph.md)
