@@ -1,3 +1,26 @@
+# TIL (Today, I Learned)
+공부한 내용을 설명과 코드로 정리하는 저장소입니다.
+
+---
+
+## Commit Convention
+1. Commit 메세지 구조
+```
+type : [대분류] 제목
+본문
+```
+
+2. Commit type 규칙
+```
+feat : 새로운 내용 등록
+refactor : 코드 리팩토링
+style :  코드 포맷팅, 세미콜론 누락, 로직 변경이 없는 경우
+docs : 문서 내 설명 수정
+rename : 파일 또는 폴더 수정 및 이동
+remove : 파일 또는 폴더 삭제
+```
+---
+
 # Java
 - [컴파일 과정](https://github.com/EunsilSon/TIL/blob/main/Java/compile%20process.md)
 - [String, StringBuilder, StringBuffer](https://github.com/EunsilSon/TIL/blob/main/Java/String%2C%20StringBuilder%2C%20StringBuffer.md)
