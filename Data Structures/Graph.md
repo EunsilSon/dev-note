@@ -21,15 +21,18 @@
 
 <br>
 
-> 그래프의 구현
+그래프 구현
 > - 인접 행렬
 > - 인접 리스트
 
-> 그래프의 탐색
+그래프 탐색
 > - DFS(Depth First Search) 깊이 우선 탐색
 > - BFS(Breadth First Search) 너비 우선 탐색
 
 <br>
+
+![graph](https://github.com/EunsilSon/TIL/assets/46162801/0068bd8d-f407-4833-8c07-cf735cab6cb3)
+
 
 # 인접 리스트
 ArrayList를 사용해 각 정점의 인접 리스트를 모두 갖게하는 방식
@@ -111,6 +114,15 @@ public class AdjacencyList {
         adjacencyList.printAll();
     }
 }
+```
+- 출력 결과
+```
+정점 1의 인접 리스트 -> 2 -> 3
+정점 2의 인접 리스트 -> 1 -> 3 -> 4
+정점 3의 인접 리스트 -> 1 -> 2 -> 4 -> 5
+정점 4의 인접 리스트 -> 2 -> 3 -> 5 -> 6
+정점 5의 인접 리스트 -> 3 -> 4
+정점 6의 인접 리스트 -> 4 
 ```
 
 <br>
@@ -196,6 +208,15 @@ public class AdjacencyArray {
         adjacencyArray.printAll();
     }
 }
+```
+- 출력 결과
+```
+0 1 1 0 0 0 
+1 0 1 1 0 0 
+1 1 0 1 1 0 
+0 1 1 0 1 1 
+0 0 1 1 0 0 
+0 0 0 1 0 0 
 ```
 
 <br>
