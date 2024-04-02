@@ -1,7 +1,12 @@
 # dev-note
 공부한 내용과 개발 경험들을 설명과 코드로 정리하는 저장소입니다.
 
----
+<br><br>
+
+# Cheat Sheet
+> 문법이나 명령어들을 빨리 찾을 수 있는 cheat sheet !
+- [Java](https://github.com/EunsilSon/dev-note/blob/main/Cheat%20Sheet/Java.md)
+- [Git](https://github.com/EunsilSon/dev-note/blob/main/Cheat%20Sheet/Git.md)
 
 # Java
 - [컴파일 과정](https://github.com/EunsilSon/TIL/blob/main/Java/compile%20process.md)
@@ -19,7 +24,7 @@
 - [Garbage Collection](https://github.com/EunsilSon/TIL/blob/main/Java/Garbage%20Collection.md)
 
 # Spring
-[MVC 요청 처리 흐름](https://github.com/EunsilSon/TIL/blob/main/Spring/Spring%20MVC%EC%9D%98%20%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC.md)
+- [MVC의 요청 처리](https://github.com/EunsilSon/TIL/blob/main/Spring/Spring%20MVC%EC%9D%98%20%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC.md)
 
 # Algorithm
 - [빅오 표기법](https://github.com/EunsilSon/TIL/blob/main/Algorithm/Big-O%20%ED%91%9C%EA%B8%B0%EB%B2%95.md)
