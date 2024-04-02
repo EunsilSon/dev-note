@@ -28,6 +28,18 @@
 
 <br>
 
+## StringBuilder
+```
+StringBuilder sb = new StringBuilder
+```
+- 가변 객체
+- 싱글스레드 환경에 사용하기 좋음
+
+### 메서드
+- `.reverse()` : 문자열 뒤집기
+
+<br>
+
 ## HashMap
 >HashSet : `순서 X`  `중복 X`  
 >HashMap : `순서 O`  `key null O` `key-value`  
