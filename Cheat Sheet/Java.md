@@ -40,6 +40,13 @@ StringBuilder sb = new StringBuilder
 
 <br>
 
+## Math
+- `Math.pow(Double, Double)` : 거듭제곱
+- `Math.max(param1, param2)` : 최댓값
+- `Math.min(param1, param2)` : 최솟값
+
+<br>
+
 ## HashMap
 >HashSet : `순서 X`  `중복 X`  
 >HashMap : `순서 O`  `key null O` `key-value`  
