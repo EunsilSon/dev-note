@@ -29,17 +29,6 @@
 - [Spring 컨테이너](https://github.com/EunsilSon/dev-note/blob/main/Spring/Spring%20Container.md)
 - [Spring Boot 컨테이너리스](https://github.com/EunsilSon/dev-note/blob/main/Spring/Spring%20Boot%EC%9D%98%20Containerless.md)
 
-# Algorithm
-- [빅오 표기법](https://github.com/EunsilSon/TIL/blob/main/Algorithm/Big-O%20%ED%91%9C%EA%B8%B0%EB%B2%95.md)
-- 정렬
-  - [선택 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/selection.md)
-  - [삽입 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/insertion.md)
-  - [버블 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/bubble.md)
-  - [퀵 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/quick.md)
-  - [합병 정렬](https://github.com/EunsilSon/TIL/blob/main/Algorithm/sort/merge.md)
-- [그리디 알고리즘](https://github.com/EunsilSon/TIL/blob/main/Algorithm/greedy.md)
-- [순열과 조합](https://github.com/EunsilSon/TIL/blob/main/Algorithm/%EC%88%9C%EC%97%B4%EA%B3%BC%20%EC%A1%B0%ED%95%A9.md)
-
 # Web
 - [HTTP 메서드와 상태 코드](https://github.com/EunsilSon/TIL/blob/main/Web/HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 
