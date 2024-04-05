@@ -28,6 +28,7 @@
 - [Spring 특징](https://github.com/EunsilSon/dev-note/blob/main/Spring/Spring%20%ED%8A%B9%EC%A7%95.md)
 - [Spring 컨테이너](https://github.com/EunsilSon/dev-note/blob/main/Spring/Spring%20Container.md)
 - [Spring Boot 컨테이너리스](https://github.com/EunsilSon/dev-note/blob/main/Spring/Spring%20Boot%EC%9D%98%20Containerless.md)
+- [JPA (Java Persistence API)](https://github.com/EunsilSon/dev-note/blob/main/Spring/JPA.md)
 
 # Web
 - [HTTP 메서드와 상태 코드](https://github.com/EunsilSon/TIL/blob/main/Web/HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
