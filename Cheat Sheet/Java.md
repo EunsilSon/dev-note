@@ -72,10 +72,21 @@ StringTokenizer st = new StringTokenizer(br.readLine());
 
 <br><br>
 
-# HashMap
+# Collection Framework
+## HashMap
 >HashSet : `순서 X`  `중복 X`  
 >HashMap : `순서 O`  `key null O` `key-value`  
 >HashTable : `순서 X` `key null X` `key-value` `Thread-Safe`
 
 - `map.containsKey()` : map에 특정 key 존재 여부
 - `map.containsValue()` : map에 특정 value 존재 여부
+
+## TreeSet
+>- 데이터가 정렬된 상태로 저장
+>- 중복 X
+>- 순서 유지 X
+
+```
+TreeSet<E> tree = new TreeSet<>(); // 오름차순
+TreeSet<E> tree = new TreeSet<>(Collections.reverseOrder()); // 내림차순
+```
