@@ -29,6 +29,7 @@
 - [Spring 컨테이너](https://github.com/EunsilSon/dev-note/blob/main/Spring/Spring%20Container.md)
 - [Spring Boot 컨테이너리스](https://github.com/EunsilSon/dev-note/blob/main/Spring/Spring%20Boot%EC%9D%98%20Containerless.md)
 - [JPA (Java Persistence API)](https://github.com/EunsilSon/dev-note/blob/main/Spring/JPA.md)
+- [JPA 영속성 컨텍스트 (Persistence Context)](https://github.com/EunsilSon/dev-note/blob/main/Spring/JPA_%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
 
 # Web
 - [HTTP 메서드와 상태 코드](https://github.com/EunsilSon/TIL/blob/main/Web/HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
