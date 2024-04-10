@@ -17,14 +17,14 @@
 
       `entitymanager.persist(member)`
 
-- 준영속 (detached) : 영속성 컨텍스트에 저장되었다가 분리
-    `entitymanager.detach(member)` : 준영속 상태로 만듦
+- 준영속 (detached) : 영속성 컨텍스트에 저장되었다가 분리  
+    `entitymanager.detach(member)` : 준영속 상태로 만듦  
     `entitymanager.clear()`  
     `entitymanager.close()`  
     > 영속성 컨텍스트가 제공하는 모든 기능이 동작하지 않음  
   (1차 캐시, 쓰기 지연, 변경 감지, 지연 로딩)
 
-- 삭제 (removed) : 삭제  
+- 삭제 (removed)  
 `entitymanager.remove(member)`
 
 <br>
