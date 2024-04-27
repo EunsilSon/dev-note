@@ -63,6 +63,11 @@ StringTokenizer st = new StringTokenizer(br.readLine());
 ```
 - `.nextToken()` : readLine()로 받은 값을 공백 단위로 구분해 순서대로 호출 가능
 
+<br>
+
+## Character
+- `Character.isDigit(char)` : 숫자인지 아닌지 (return boolean)
+
 <br><br>
 
 # Math
