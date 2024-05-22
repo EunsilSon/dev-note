@@ -1,4 +1,16 @@
 # Java
+### Integer
+- `.parseInteger(String s)` : int 기본형 반환
+- `.valueOf(String s)` : Integer 객체 반환
+
+### Character
+- `.getNumericValue(char ch)`
+    - 0~9 : 정수 반환
+    - A~Z, a~z : 10~35사이의 값
+    - 유니코드 숫자가 아닌 문자 : -1
+
+<br>
+
 
 # String
 - `String.format(String format, Object... args)` : 문자열 형식 지정 
