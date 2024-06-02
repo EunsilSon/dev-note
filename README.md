@@ -7,6 +7,7 @@
 > 문법이나 명령어들을 빨리 찾을 수 있는 cheat sheet !
 - [Java](https://github.com/EunsilSon/dev-note/blob/main/Cheat%20Sheet/Java.md)
 - [Git](https://github.com/EunsilSon/dev-note/blob/main/Cheat%20Sheet/Git.md)
+- [SQL](https://github.com/EunsilSon/dev-note/blob/main/Cheat%20Sheet/SQL.md)
 
 # Java
 - [컴파일 과정](https://github.com/EunsilSon/TIL/blob/main/Java/compile%20process.md)
