@@ -7,3 +7,4 @@
     - `%Y` 년
     - `%M` 월
     - `%D` 일
+- `ifnull(A, B)` A가 null이면 A를 반환, A가 null이 아니면 B를 반환 
