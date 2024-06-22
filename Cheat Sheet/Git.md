@@ -40,3 +40,8 @@ git reset HEAD^
 ```
 git checkout .
 ```
+
+### 최근 커밋 변경사항 확인
+```
+git diff
+```
