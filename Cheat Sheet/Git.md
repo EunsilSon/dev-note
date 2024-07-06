@@ -45,3 +45,10 @@ git checkout .
 ```
 git diff
 ```
+
+### 브랜치 병합
+```
+git checkout main
+git merge 병합할 브랜치 -m "메세지"
+git push
+```
