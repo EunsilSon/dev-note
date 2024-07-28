@@ -52,3 +52,9 @@ git checkout main
 git merge 병합할 브랜치 -m "메세지"
 git push
 ```
+
+### 변경된 파일 임시 저장 (스태시) + 다시 불러오기
+```
+git stash
+git stash pop
+```
