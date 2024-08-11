@@ -53,8 +53,12 @@ git merge 병합할 브랜치 -m "메세지"
 git push
 ```
 
-### 변경된 파일 임시 저장 (스태시) + 다시 불러오기
+### 스태시 (로컬 저장소에 작업 내역 임시 저장)
 ```
 git stash
-git stash pop
+git stash list // 저장된 내용 확인
+
+/* stash 복원 및 삭제 */
+git stash pop // list에 남지 않음
+git stash apply // list에 남음
 ```
